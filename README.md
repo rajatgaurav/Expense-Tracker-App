@@ -38,7 +38,7 @@ and if money is credited in your account then just add positive sign with the am
 
 To deploy this project run
 
-[Website link](/)
+[Website link](https://expense-tracker-app-rg.netlify.app/)
 
 ## Used By
 
